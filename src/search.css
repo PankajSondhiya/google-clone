@@ -1,0 +1,24 @@
+.search_input {
+  position: relative;
+  margin: 20px auto;
+  display: flex;
+  width: 600px;
+}
+.search_buttons {
+  margin: 50px;
+}
+.search_InputIcon {
+  position: absolute;
+  right: 10px; /* Adjust the value to control the icon's horizontal position */
+  top: 50%; /* Adjust the value to center the icon vertically */
+  transform: translateY(-50%);
+  color: green;
+}
+.form-control {
+  width: 100%;
+  margin: auto;
+  background-color: #252323;
+  color: white;
+  border-radius: 30px;
+  padding-left: 10px;
+}

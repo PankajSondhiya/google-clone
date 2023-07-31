@@ -1,0 +1,23 @@
+.home {
+  background-color: rgb(41, 40, 40);
+  height: 100vh;
+}
+.home_body {
+  font-size: 100px;
+  color: white;
+  font-family: sans-serif;
+  margin-top: 50px;
+}
+.home_header {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 5px;
+  color: white;
+}
+.headerLeft {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 270px;
+  margin-right: 0;
+}
